@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on data projects from my previous postodctoral and doctoral projects
+- 🔭 I’m currently working on data projects from my previous postodctoral and doctoral projects (on alcohol consumption, genetics and craving for alcohol).
 - 🌱 I’m currently learning data visualization, network analysis, sentiment analysis, conducting meta-analysis in R and text analysis
 - 👯 I’m looking to collaborate on bibliometric analysis.
 - 🤔 I’m looking for help with network analysis in R.
