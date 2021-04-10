@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on bibliometric analysis.
 - 🤔 I’m looking for help with network analysis in R.
 - 💬 Ask me about a beginner's persepctive in learning R, as i learned R by many trials and errors over time.
-- 📫 How to reach me: Twitter: https://twitter.com/soundarya2410
+- 📫 How to reach me: Twitter: https://twitter.com/SoundaryaRak
 - 😄 Pronouns: She/hers
 - ⚡ Fun fact: Even in my dreams, i see data, draw heatmaps, and write codes; I am absolutely passionate about dataviz.
 -->
