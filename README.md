@@ -9,6 +9,7 @@
 - 🤔 I’m looking for help with network analysis in R.
 - 💬 Ask me about a beginner's persepctive in learning R, as i learned R by many trials and errors over time.
 - 📫 How to reach me: Twitter: https://twitter.com/SoundaryaRak
+- ✍ I have a simple blog at https://ss-myrspace.netlify.app/ where I write some beginners way of setting up and analyzing in R studio
 - 😄 Pronouns: She/hers
 - ⚡ Fun fact: Even in my dreams, i see data, draw heatmaps, and write codes; I am absolutely passionate about dataviz.
 -->
